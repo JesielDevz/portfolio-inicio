@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-primaria: #0008f6ce;
+    --cor-primaria: #ffffffce;
     --cor-secundaria: #000000;
-    --cor-terciaria: #0088ff;
-    --cor-hover: #05caf1;
+    --cor-terciaria: #0028ca;
+    --cor-hover: #0538f1;
 
     --fonte-primaria: "Anton", sans-serif;
     --fonte-secundaria: "Montserrat", sans-serif;
@@ -123,7 +123,7 @@ body {
 }
 
 .rodape {
-    color: black;
+    color: rgb(255, 255, 255);
     background-color: var(--cor-terciaria);
     padding: 24px;
     text-align: center;
